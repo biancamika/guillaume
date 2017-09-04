@@ -75,7 +75,7 @@ section {
 
 section.success {
   color: #2C3E50;
-  background: white; }
+  background-color: white; }
 
 @media (max-width: 767px) {
   section {
